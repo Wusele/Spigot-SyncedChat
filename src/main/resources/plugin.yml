@@ -1,0 +1,9 @@
+name: SyncedChat
+version: '0.1'
+main: me.wusel.javacord.SyncedChat
+api-version: 1.17
+
+commands:
+  announcement:
+    aliases:
+      - an

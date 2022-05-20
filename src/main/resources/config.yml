@@ -1,8 +1,0 @@
-#Token that you need to log into a bot
-TOKEN: BOT_TOKEN
-
-# Server where the channel is that you want to be synced with your minecraft chat
-SERVERID: UNSET
-
-# Channel that you want to sync with your minecraft chat
-CHANNELID: UNSET
